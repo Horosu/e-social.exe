@@ -4,18 +4,25 @@ Este projeto realiza a automação do processo de extração de dados do sistema
 
 ## 📋 Índice
 
-- [Descrição](#descrição)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Funcionalidades](#funcionalidades)
-- [Patch Notes](#patch-notes)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
+- [📝 Descrição](#-descrição)
+- [💻 Instalação](#-instalação)
+- [🚀 Uso](#-uso)
+- [⚙️ Funcionalidades](#-funcionalidades)
+- [🆕 Patch Notes](#-patch-notes)
+- [💸 Preço](#-preço)
+- [🤝 Contribuição](#-contribuição)
+- [📜 Licença](#-licença)
+- [📧 Contato](#-contato)
 
 ## 📝 Descrição
 
-Este projeto é uma solução automatizada para extração de dados de cada trabalhador no sistema do e-Social, facilitando o processo de geração de registros. A automação navega pelo sistema, extrai os dados desejados, copia o HTML e o CSS da página, e transforma tudo em um PDF pronto para armazenamento e consulta. Agora, com suporte para extração em XML também.
+Este projeto é uma solução automatizada para extração de dados de cada trabalhador no sistema do e-Social, facilitando o processo de geração de registros. A automação navega pelo sistema, extrai os dados desejados, copia o HTML e o CSS da página, e transforma tudo em um PDF pronto para armazenamento e consulta. Além disso, o software agora suporta extração de dados em formato XML, oferecendo mais flexibilidade e opções de armazenamento.
+
+### Principais Benefícios:
+- **Automação Completa**: Economize tempo ao automatizar a coleta e a formatação dos dados do e-Social.
+- **Interface Amigável**: Uma GUI que qualquer pessoa pode usar, mesmo sem conhecimento técnico.
+- **Flexibilidade de Formatos**: Suporte para extração em PDF e XML, permitindo integração com outros sistemas.
+- **Armazenamento Organizado**: Dados são organizados automaticamente por trabalhador, facilitando a consulta posterior.
 
 ## 💻 Instalação
 
@@ -30,14 +37,18 @@ Este projeto é uma solução automatizada para extração de dados de cada trab
 3. **Não é necessário alterar código ou configurar ambientes**. Tudo é feito de forma visual e intuitiva.
 4. Clique em "Iniciar Extração" para gerar os arquivos PDF e XML.
 
+### Requisitos
+
+- **Sistema Operacional**: Windows
+- **Espaço em Disco**: Mínimo de 500 MB disponíveis
+- **Conexão com a Internet**: Necessária para acessar o sistema do e-Social
+
 ## ⚙️ Funcionalidades
 
-- Extração automática de dados do e-Social
-- Conversão de HTML e CSS para PDF
-- Extração de dados em formato XML
-- Interface gráfica (GUI) amigável e dinâmica
-- Armazenamento organizado por trabalhador
-- Compatível com usuários sem conhecimentos de programação
+- **Extração Automática**: Extrai dados diretamente do e-Social, economizando tempo e minimizando erros.
+- **Conversão para PDF e XML**: Os dados são formatados e exportados em PDF para visualização e em XML para integração com outros sistemas.
+- **Interface Gráfica**: GUI amigável e intuitiva, ideal para usuários que não têm familiaridade com ferramentas de desenvolvimento.
+- **Armazenamento Organizado**: Os arquivos são organizados automaticamente por trabalhador, facilitando o acesso e a gestão dos documentos.
 
 ## 🆕 Patch Notes
 
